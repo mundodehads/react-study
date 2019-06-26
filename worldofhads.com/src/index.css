@@ -1,0 +1,14 @@
+:root {
+  --background-color: black;
+  --h1-color: white;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 20px;
+  background-color: var(--background-color);
+}
+
+h1 {
+  color: var(--h1-color);
+}
